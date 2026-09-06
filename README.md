@@ -1,10 +1,15 @@
+![Yousouf Mostafa — Full Stack Engineer, Technical Lead, and Founder of Dokio](assets/profile-banner.svg)
+
 # Hi, I'm Yousouf Mostafa
 
 ### Full Stack Engineer · Technical Lead · Founder of Dokio
 
 I build SaaS platforms, enterprise dashboards, and e-commerce applications. My work combines frontend engineering with backend development, with a focus on multi-tenant architecture, reusable interfaces, and maintainable systems.
 
-[LinkedIn](https://www.linkedin.com/in/yousouf-essa-7029531b7/) · [Email](mailto:yousoufmostafamuslim@gmail.com) · [Dokio](https://dokio.shop/) · [GitHub](https://github.com/atheerweb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/yousouf-essa-7029531b7/)
+[![Email](https://img.shields.io/badge/Email-Let%27s%20talk-256B5A?style=flat-square&logo=gmail&logoColor=white)](mailto:yousoufmostafamuslim@gmail.com)
+[![Dokio](https://img.shields.io/badge/Dokio-Visit%20the%20platform-153B46?style=flat-square)](https://dokio.shop/)
+[![GitHub](https://img.shields.io/badge/GitHub-atheerweb-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atheerweb)
 
 ## About me
 
@@ -15,6 +20,11 @@ I build SaaS platforms, enterprise dashboards, and e-commerce applications. My w
 - My strongest frontend experience is in **Vue and Nuxt**, alongside **React and Next.js**, with **Laravel and Express.js** on the backend.
 
 ## Technical toolkit
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,ts,js,php,laravel,express,tailwind,pinia,firebase,docker,githubactions,git,figma&amp;perline=8&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,ts,js,php,laravel,express,tailwind,pinia,firebase,docker,githubactions,git,figma&amp;perline=8&amp;theme=dark" alt="Vue, Nuxt, React, Next.js, TypeScript, JavaScript, PHP, Laravel, Express, Tailwind CSS, Pinia, Firebase, Docker, GitHub Actions, Git, and Figma" />
+</picture>
 
 | Area | Technologies |
 | :--- | :--- |
@@ -28,6 +38,8 @@ I build SaaS platforms, enterprise dashboards, and e-commerce applications. My w
 | Design and collaboration | Figma, Agile/Scrum, code reviews, technical documentation |
 
 ## Featured work
+
+![Focus areas: multi-tenant SaaS, enterprise dashboards, and real-time systems](assets/focus-areas.svg)
 
 ### [Dokio — E-commerce SaaS](https://dokio.shop/)
 
@@ -105,3 +117,5 @@ I also work closely with clients, designers, and backend teams to keep implement
 ## Let's connect
 
 For conversations about SaaS architecture, frontend engineering, or technical collaboration, reach me on [LinkedIn](https://www.linkedin.com/in/yousouf-essa-7029531b7/) or by [email](mailto:yousoufmostafamuslim@gmail.com).
+
+<sub>Technology icons by [Skill Icons](https://github.com/tandpfun/skill-icons). Badges by [Shields.io](https://shields.io/).</sub>
