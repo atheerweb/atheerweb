@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title">
+  <title id="title">Focus areas: Multi-tenant SaaS, enterprise dashboards, and real-time systems</title>
+  <g fill="#101F30" stroke="#294252"><rect x="1" y="1" width="382" height="178" rx="16"/><rect x="409" y="1" width="382" height="178" rx="16"/><rect x="817" y="1" width="382" height="178" rx="16"/></g>
+  <g fill="none" stroke="#5DE4B3" stroke-width="2.5" stroke-linejoin="round">
+    <rect x="27" y="29" width="26" height="20" rx="3"/><rect x="23" y="66" width="13" height="12" rx="2"/><rect x="44" y="66" width="13" height="12" rx="2"/><path d="M40 49v9H29v8m11-8h11v8"/>
+    <rect x="437" y="30" width="36" height="42" rx="4"/><path d="M437 41h36M450 41v31m8-10v-6m7 6V49"/>
+    <path d="M844 52h10l7-18 11 38 8-20h12"/>
+  </g>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <g fill="#F1F7FC" font-size="22" font-weight="600"><text x="27" y="117">Multi-tenant SaaS</text><text x="437" y="117">Enterprise dashboards</text><text x="845" y="117">Real-time systems</text></g>
+    <g fill="#B6C9D8" font-size="16"><text x="27" y="149">Onboarding · Storefronts · Architecture</text><text x="437" y="149">Reusable UI · Workflows · Case management</text><text x="845" y="149">WebSockets · Call monitoring · Notifications</text></g>
+  </g>
+</svg>
